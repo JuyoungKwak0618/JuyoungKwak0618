@@ -7,6 +7,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&lines=Welcome+to+Ju-young's+GitHub!%F0%9F%91%8B&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true">
   </a>
 </p>
+<br/>
+<br/>
     
 ## 📞 Contact 📞
 <p>98rmmr@gmail.com</p>
