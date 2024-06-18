@@ -1,4 +1,4 @@
-## Hi i'm Juyoung Kwak 👋
+## 기술적인 역량만이 아니라 문제 해결 능력과 협업 능력을 함께 키워가며, 어려운 상황에서도 긍정적인 태도를 유지하여 팀원들과 함께 좋은 성과를 이루어내는 개발자가 되고싶습니다. 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
