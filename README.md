@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi i'm Juyoung Kwak 👋
 
 <!--
 **JuyoungKwak0618/JuyoungKwak0618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
