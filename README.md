@@ -3,6 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Ju-young's+GitHub!👋)](https://github.com/JuyoungKwak0618)
 
+
+<div align="center">
+    
 ## 📞 Contact 📞
 98rmmr@gmail.com
 
@@ -11,7 +14,7 @@
 
 -------
 
-## 🔨 Once I've used 🔨
+## 🔨 Tech Stack 🔨
 <div style="display: flex; flex-direction: column; align-items: center;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -45,5 +48,7 @@
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
         <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" alt="Material-UI">
     </div>
+</div>
+
 </div>
 
