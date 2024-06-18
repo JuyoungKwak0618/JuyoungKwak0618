@@ -9,7 +9,8 @@
 </p>
 <br/>
 <br/>
--------
+<hr style="border-top: 2px solid #6994CD; width: 50%; margin-bottom: 20px;">
+
     
 ## 📞 Contact 📞
 <p>98rmmr@gmail.com</p>
