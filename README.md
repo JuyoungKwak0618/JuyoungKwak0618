@@ -6,22 +6,20 @@
 ## 📞 Contact 📞
 98rmmr@gmail.com
 
-반갑습니다
-기술적인 역량만이 아니라 문제 해결 능력과 협업 능력을 함께 키워가며,
-어려운 상황에서도 긍정적인 태도를 유지하여 팀원들과 함께 좋은 성과를 이루어내는 개발자가 되고싶습니다.
+반갑습니다. 기술적인 역량뿐만 아니라 문제 해결 능력과 협업 능력을 함께 키워가며,
+어려운 상황에서도 긍정적인 태도를 유지하여 팀원들과 함께 좋은 성과를 이루어내는 개발자가 되고 싶습니다.
 
-
- 
 -------
+
 ## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
+<div style="display: flex; flex-direction: column; align-items: center;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-     <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+        <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
     </div>
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -35,16 +33,17 @@
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
     </div>
-   <!-- Development Tools -->
-   <p><strong>Development Tools</strong></p>
-   <div>
- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse">
-   </div>
-   <!-- FrameWork -->
-  <p><strong>FrameWork</strong></p>
-   <div>
-   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" alt="Material-UI">
-   </div>
+    <!-- Development Tools -->
+    <p><strong>Development Tools</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse">
+    </div>
+    <!-- Framework -->
+    <p><strong>Framework</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+        <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" alt="Material-UI">
+    </div>
 </div>
+
