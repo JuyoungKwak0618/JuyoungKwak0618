@@ -4,7 +4,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Ju-young's+GitHub!👋)](https://github.com/JuyoungKwak0618)
 
 ## 📞 Contact 📞
-98rmmr@naver.com
+98rmmr@gmail.com
+
+반갑습니다
+기술적인 역량만이 아니라 문제 해결 능력과 협업 능력을 함께 키워가며,
+어려운 상황에서도 긍정적인 태도를 유지하여 팀원들과 함께 좋은 성과를 이루어내는 개발자가 되고싶습니다.
+
 
  
 -------
